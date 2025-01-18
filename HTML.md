@@ -15,7 +15,7 @@
     <h6>This is a sample heading</h6>
 
     <!-- this is first paragraph -->
-    <p style="color: rebeccapurple; font-weight: bold;"><i>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium repellendus dolorum inventore, neque incidunt officiis facere deserunt eum perferendis at nulla magni repellat? Itaque perspiciatis harum nihil, optio eligendi ipsam!</i></p>
+    <p style="color: blue; font-weight: bold;"><i>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium repellendus dolorum inventore, neque incidunt officiis facere deserunt eum perferendis at nulla magni repellat? Itaque perspiciatis harum nihil, optio eligendi ipsam!</i></p>
 
 <!-- this is second paragraph -->
     <p><b style="color: blue">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis dolores optio quam atque assumenda quas iste vitae, impedit, totam, perferendis officiis nihil iusto illo ipsam qui dignissimos velit autem quia!</b>
